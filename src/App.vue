@@ -16,7 +16,7 @@ export default {
   name: 'App',
   data() {
     return {
-      iframeSrc: "https://http://mizutanidesign.com/wp-xweb/77.html", // Initial source
+      iframeSrc: "https://dailyarts.co.jp/css/at/", // Initial source
     };
   },
 };

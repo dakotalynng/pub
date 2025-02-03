@@ -16,7 +16,7 @@ export default {
   name: 'App',
   data() {
     return {
-      iframeSrc: "https://embeds.beehiiv.com/bb7f1984-d969-44b2-9c3b-e60b9f1cac3f", // Initial source
+      iframeSrc: "https://http://mizutanidesign.com/wp-xweb/77.html", // Initial source
     };
   },
 };
